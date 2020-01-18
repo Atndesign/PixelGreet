@@ -1,7 +1,7 @@
 {
-  "name": "greetinglive",
+  "name": "pixelgreet",
   "version": "1.0.0",
-  "description": "A greeting bot for my upcoming livestream, made with ComfyJK",
+  "description": "A greeting bot for my upcoming livestream, made with ComfyJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
