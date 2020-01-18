@@ -1,0 +1,14 @@
+{
+  "name": "greetinglive",
+  "version": "1.0.0",
+  "description": "A greeting bot for my upcoming livestream, made with ComfyJK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "comfy.js": "^1.0.14"
+  }
+}
