@@ -4,7 +4,7 @@ This is a bot for my upcoming livestreams, it allow me to have a bot greeting pe
 
 I used javascript window.location and param so you can use it **like this**:
 
-atndesing.github.io/pixelgreetl?channel=YourChannel&firstgif=YourFirstGiflink&=scndgif=YourSecondGifLink
+> https://atndesign.github.io/PixelGreet?channel=YourChannel&firstgif=YourFirstGiflink&=scndgif=YourSecondGifLink
 
 This project also use **Comfy.JS**, who lets you integrate with Twitch chat for your Twitch channel ***SUPER EASILY*** in just a few lines of code, it was made by:.
 
